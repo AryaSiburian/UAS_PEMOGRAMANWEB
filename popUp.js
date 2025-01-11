@@ -1,5 +1,5 @@
     document.addEventListener('DOMContentLoaded', function () {
-        // Pilih semua tombol delete
+
         const deleteButtons = document.querySelectorAll('.delete-btn');
 
         deleteButtons.forEach(button => {
