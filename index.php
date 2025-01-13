@@ -21,6 +21,8 @@
                     <option value="elektronik">Elektronik</option>
                     <option value="pakaian">Pakaian</option>
                     <option value="makanan">Makanan</option>
+                    <option value="makanan">Makanan343</option>
+                    
                 </select>
 
             </div>
