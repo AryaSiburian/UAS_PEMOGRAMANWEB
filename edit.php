@@ -19,7 +19,8 @@ $data = mysqli_fetch_assoc($select);
                 <option value="elektronik">Elektronik</option>
                 <option value="pakaian">Pakaian</option>
                 <option value="makanan">Makanan</option>
-        </select>
+                <option value="makanan">Minuman</option>
+            </select>
     </div>
 
     <div class="form-group">
