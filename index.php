@@ -12,6 +12,7 @@
                 <input type="hidden" name="search" value="1">
                 <input type="text" name="keyword" placeholder="Cari produk..." style="flex: 1; width: 100%;" required>
                 <button type="submit" class="btn btn-success" style="margin-top: 10px;">Cari</button>
+                <a href="login.php">Login</a>
             </form>
             </div>
 
