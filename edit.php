@@ -30,7 +30,7 @@ $data = mysqli_fetch_assoc($select);
 
     <div class="form-group">
         <label>Harga Satuan</label>
-        <input type="number" name="harga_satuan" value="<?php echo $data['harga_satuan']?>"required>
+        <input type="number" name="harga_satuan" value="<?php echo $data['harga']?>"required>
     </div>
 
     <button type="submit" class="btn btn-primary" name="submit" >Update</button>
