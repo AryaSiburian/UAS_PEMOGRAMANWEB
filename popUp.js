@@ -4,7 +4,7 @@
 
         deleteButtons.forEach(button => {
             button.addEventListener('click', function (event) {
-                event.preventDefault(); 
+                 
 
                 const productId = this.getAttribute('data-id');
                 
